@@ -1,0 +1,1 @@
+const String baseUrl = "https://codeedexbackend.pythonanywhere.com/api/";
